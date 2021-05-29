@@ -1,0 +1,4 @@
+.DS_Store
+.gitattributes
+.git/
+/web_version/data_base
